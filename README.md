@@ -1,6 +1,7 @@
 # nuxteroo
 
 > A simple Nuxt project to go
+> Stacks: Vue.js, Nuxt.js, Vuex
 
 ## Build Setup
 
