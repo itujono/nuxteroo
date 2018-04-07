@@ -1,0 +1,30 @@
+{
+  "name": "nuxteroo",
+  "version": "1.0.0",
+  "description": "A simple Nuxt project to go",
+  "author": "itujono <itujono@gmail.com>",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "precommit": "npm run lint"
+  },
+  "dependencies": {
+    "buefy": "^0.6.5",
+    "nuxt": "^1.0.0",
+    "nuxt-buefy": "^0.0.4",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "eslint": "^4.15.0",
+    "eslint-friendly-formatter": "^3.0.0",
+    "eslint-loader": "^1.7.1",
+    "eslint-plugin-vue": "^4.0.0",
+    "node-sass": "^4.8.3",
+    "sass-loader": "^6.0.7"
+  }
+}

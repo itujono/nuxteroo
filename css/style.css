@@ -1,0 +1,12 @@
+body {
+    max-width: 900px;
+}
+
+.range {
+    display: block;
+    width: 100%;
+}
+
+.mb30 {
+    margin-bottom: 30px !important;
+}
