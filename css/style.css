@@ -1,4 +1,4 @@
-body {
+.container {
     max-width: 900px;
 }
 
@@ -9,4 +9,18 @@ body {
 
 .mb30 {
     margin-bottom: 30px !important;
+}
+
+.version {
+    margin-top: 5em;
+    text-align: center;
+}
+
+.select select, .input, .select:not(.is-multiple) {
+    height: 3em;
+}
+
+.select select {
+    background: #f3f3f3;
+    color: #777;
 }

@@ -41,6 +41,9 @@
 			<!-- <div class="box is-centered mt5em">
 				<nuxt-link to="/about">About</nuxt-link>
 			</div> -->
+			<div class="version">
+				<div class="content">Versi 1.0.2</div>
+			</div>
 		</div>
 	</div>
 </template>
