@@ -1,9 +1,8 @@
 {
-  "name": "nuxteroo",
+  "name": "hurrency",
   "version": "1.0.0",
-  "description": "A simple Nuxt project to go",
+  "description": "A simple real-time currency web-app -- built on top of Nuxt.js",
   "author": "itujono <itujono@gmail.com>",
-  "private": true,
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
@@ -13,6 +12,7 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "buefy": "^0.6.5",
     "nuxt": "^1.0.0",
     "nuxt-buefy": "^0.0.4",
