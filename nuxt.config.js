@@ -3,11 +3,11 @@ module.exports = {
 	** Headers of the page
 	*/
 	head: {
-		title: 'nuxteroo',
+		title: 'Hurrency',
 		meta: [
 			{ charset: 'utf-8' },
 			{ name: 'viewport', content: 'width=device-width, initial-scale=1' },
-			{ hid: 'description', name: 'description', content: 'A simple Nuxt project to go' }
+			{ hid: 'description', name: 'description', content: 'A simple real-time currency web-app -- built on top of Nuxt.js' }
 		],
 		link: [
 			{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
